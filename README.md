@@ -1,5 +1,3 @@
----
-
 # CodSoft Data Science Internship (June 2024 Batch)
 
 ## Batch - JUNE BATCH A58
@@ -31,5 +29,3 @@ This repository documents my progress through the **Data Science Internship** of
 ### 5. Credit Card Fraud Detection
 - **Description**: Identify fraudulent credit card transactions using classification models.
 - **Dataset**: [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-
----
