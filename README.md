@@ -6,7 +6,7 @@ This repository documents my progress through the **Data Science Internship** of
 
 ## About CodSoft
 
-**CodSoft** is a vibrant community focused on leadership development, learning, student engagement, and fostering shared interests. We provide platforms and resources for our members to develop their leadership skills through mentorship programs, workshops, and collaborative projects.
+CodSoft is a vibrant community that provides opportunities for aspiring professionals to develop essential skills and knowledge in various domains, including leadership development, learning, and collaborative projects. The internship program at CodSoft offers a structured learning environment and valuable resources to help interns succeed in their career aspirations.
 
 ## Projects Included
 
